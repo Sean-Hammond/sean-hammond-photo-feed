@@ -1,4 +1,4 @@
-# Fictional Image Sharing Website
+# Clifton City Image Sharing Website
 Welcome to Clifton City, a fictional place with its own image sharing website!
 
 Project Mentors: Alex Ayala, Thomas Brito
